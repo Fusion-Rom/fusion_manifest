@@ -7,11 +7,6 @@ Follow the Fusion rom builds. Please visit and support my efforts
 
 [Fusion Website] (http://www.fusion-rom.net)
 
-[Fusion Downloads] (http://www.fusion-rom.net/downloads)
-
-[Fusion Facebook] (https://www.facebook.com/DragonXsFusion)
-
-
 Getting Started
 ---------------
 
@@ -21,7 +16,7 @@ Contact us for permission to access the private repositories.
 
 Then to initialize your local repository using the Fusion rom trees, use this command:
 
-    repo init -u git://github.com/FusionSP/fusion_manifest.git -b lp5.1-private
+    repo init -u git://github.com/Fusion-Rom/fusion_manifest.git -b lp5.1
 
 Then to sync up:
 
