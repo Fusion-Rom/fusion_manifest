@@ -3,7 +3,7 @@ FUSION ROM !!
 
 Support Fusion rom
 ------------------
-Follow the Fusion rom builds. Please visit and support my efforts
+Follow the Fusion rom builds. Please visit and support our efforts
 
 [Fusion Website] (http://www.fusion-rom.net)
 
