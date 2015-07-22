@@ -112,7 +112,6 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="fusion" revision="lp5.1" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" remote="fusion" revision="lp5.1" />
   <project path="packages/apps/ThemeChooser" name="android_packages_apps_ThemeChooser" remote="fusion" revision="lp5.1" />
-  <project path="packages/apps/WallpaperPicker" name="android_packages_apps_WallpaperPicker" remote="fusion" revision="lp5.1" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="fusion" revision="lp5.1" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="fusion" revision="lp5.1" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="fusion" revision="lp5.1" />
