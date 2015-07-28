@@ -66,6 +66,7 @@
   <project path="external/chromium_org/third_party/WebKit" name="android_external_chromium_org_third_party_WebKit" remote="fusion" revision="lp5.1" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="fusion" revision="lp5.1" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" remote="fusion" revision="lp5.1" />
+  <project path="external/jpeg" name="android_external_jpeg" remote="fusion" revision="lp5.1" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="fusion" revision="lp5.1" />
   <project path="external/libpng" name="android_external_libpng" remote="fusion" revision="lp5.1" />
   <project path="external/sqlite" name="android_external_sqlite" remote="cm" revision="cm-12.1" />
@@ -289,7 +290,6 @@
   <project path="external/jhead" name="platform/external/jhead" groups="pdk" remote="aosp" />
   <project path="external/jline" name="platform/external/jline" groups="notdefault,tradefed" remote="aosp" />
   <project path="external/jmdns" name="platform/external/jmdns" groups="pdk-cw-fs" remote="aosp" />
-  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" groups="pdk" />
   <project path="external/jsilver" name="platform/external/jsilver" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/jsmn" name="platform/external/jsmn" groups="pdk" remote="aosp" />
   <project path="external/jsoncpp" name="platform/external/jsoncpp" groups="pdk-cw-fs" remote="aosp" />
