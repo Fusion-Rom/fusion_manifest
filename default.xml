@@ -81,6 +81,7 @@
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="fusion" revision="lp5.1" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="fusion" revision="lp5.1" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="fusion" revision="lp5.1" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="fusion" revision="lp5.1" />
   <project path="hardware/qcom/media-caf/apq8084" name="android_hardware_qcom_media" remote="fusion" revision="lp5.1-caf-8084" />
   <project path="hardware/qcom/media-caf/msm8226" name="android_hardware_qcom_media" remote="fusion" revision="lp5.1-caf-8226" />
   <project path="hardware/qcom/media-caf/msm8610" name="android_hardware_qcom_media" remote="fusion" revision="lp5.1-caf-8610" />
@@ -489,7 +490,6 @@
   <project path="hardware/intel/img/psb_headers" name="platform/hardware/intel/img/psb_headers" groups="intel" remote="aosp" />
   <project path="hardware/intel/img/psb_video" name="platform/hardware/intel/img/psb_video" groups="intel" remote="aosp" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" groups="invensense" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/nvidia/audio" name="CyanogenMod/android_hardware_nvidia_audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" name="CyanogenMod/android_hardware_nvidia_tegra124" groups="tegra124" />
