@@ -304,6 +304,7 @@
   <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" />
   <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" />
   <project path="external/koush/ion" name="CyanogenMod/ion" />
+  <project path="external/libavc" name="platform/external/libavc" remote="aosp" revision="master" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" />
@@ -312,6 +313,7 @@
   <project path="external/libhevc" name="platform/external/libhevc" remote="aosp" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
+  <project path="external/libmpeg2" name="platform/external/libmpeg2" remote="aosp" revision="master" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" groups="pdk" />
