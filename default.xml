@@ -68,6 +68,7 @@
   <project path="external/chromium_org/third_party/WebKit" name="android_external_chromium_org_third_party_WebKit" remote="fusion" revision="lp5.1" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="fusion" revision="lp5.1" />
   <project path="external/dhcpcd" name="android_external_dhcpcd" remote="fusion" revision="lp5.1" />
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="fusion" revision="lp5.1" />
   <project path="external/jpeg" name="android_external_jpeg" remote="fusion" revision="lp5.1" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="fusion" revision="lp5.1" />
   <project path="external/libpng" name="android_external_libpng" remote="fusion" revision="lp5.1" />
@@ -254,7 +255,6 @@
   <project path="external/exfat" name="CyanogenMod/android_external_exfat" />
   <!--  <project path="external/expat" name="platform/external/expat" groups="pdk" remote="aosp" /> -->
   <project path="external/eyes-free" name="platform/external/eyes-free" groups="pdk-cw-fw" remote="aosp" />
-  <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" groups="pdk" />
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" remote="aosp" />
   <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" />
   <project path="external/fio" name="platform/external/fio" remote="aosp" />
