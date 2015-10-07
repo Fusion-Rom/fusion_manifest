@@ -36,6 +36,10 @@
   <remote name="black-bit"
           fetch="https://bitbucket.org/NL-BlackDragon" />
 
+  <!-- Bitbucket -->
+  <remote name="bitbucket"
+          fetch="https://bitbucket.org/" />
+          
   <!-- Linaro -->
   <remote  name="linaro"
            fetch="git://android.git.linaro.org"
