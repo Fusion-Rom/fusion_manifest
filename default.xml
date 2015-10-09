@@ -17,6 +17,10 @@
   <remote  name="fusion"
            fetch="https://github.com/Fusion-Rom" />
 
+  <!-- Fusion Devices -->
+  <remote  name="fs-dev"
+           fetch="https://github.com/Fusion-Devices" />
+
   <default revision="refs/heads/cm-13.0"
            remote="github"
            sync-c="true"
